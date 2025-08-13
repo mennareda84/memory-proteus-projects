@@ -4,7 +4,7 @@ This repository contains memory-related projects that were designed and simulate
 ## Projects
 1. Counter
 2. Digital Lock
-3. Logic Gate FSM 
+3. Mealy FSM (AND-OR Switch) Project
 
 ## Each project includes
 - Excel sheet containing the truth table
