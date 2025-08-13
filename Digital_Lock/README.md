@@ -25,18 +25,18 @@ A digital lock system that requires the correct password to unlock.
 - `Images/` → Circuit schematic, truth table screenshot, K-map, and the state diagram
 
 **Circuit Design**  
-<img src="Digital_Lock/Images/the%20circuit.png" alt="Circuit">
+<img src="./Images/the%20circuit.png" alt="Circuit">
 
 **Truth Table**  
-<img src="Digital_Lock/Images/truth-table-part1.png">
+<img src="./Images/truth-table-part1.png">
 
-<img src="Digital_Lock/Images/truth-table-part2.png">
+<img src="./Images/truth-table-part2.png">
 
 **State Diagram**  
-<img src="Digital_Lock/Images/state-diagram.png" alt="State Diagram">
+<img src="./Images/state-diagram.png" alt="State Diagram">
 
 **Output**  
-<img src="Digital_Lock/Images/output.png" alt="Output Example">
+<img src="./Images/output.png" alt="Output Example">
 
 **K-map**  
-<img src="Digital_Lock/Images/k-map.png" alt="K-map" width="400" height="400">
+<img src="./Images/k-map.png" alt="K-map" width="400" height="400">
