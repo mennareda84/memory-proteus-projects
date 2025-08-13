@@ -21,10 +21,10 @@ A Mealy finite state machine with two inputs (**A**, **B**) and one output (**Z*
 - `Images/` → Circuit schematic, state table, and the state diagram
 
 **Circuit Design**  
-<img src="Mealy_AND_OR_FSM/Images/circuit.png">  
+<img src="./Images/circuit.png">  
 
 **State Table**  
-<img src="Mealy_AND_OR_FSM/Images/state_table.png">  
+<img src="./Images/state_table.png">  
 
 **State Diagram**  
-<img src="Mealy_AND_OR_FSM/Images/state_diagram.png">  
+<img src="./Images/state_diagram.png">  
