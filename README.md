@@ -11,9 +11,10 @@ This repository contains memory-related projects that were designed and simulate
 - HEX file generated from the truth table using Prog-Studio
 - Circuit design and simulation in Proteus
 - Documentation including:
+  - Circuit schematic
   - State diagram
+  - State Table
   - Boolean equations for each output
-  - Equations derived from K-map simplification
 
 ## Tools Used
 - Microsoft Excel
