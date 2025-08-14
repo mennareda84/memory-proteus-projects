@@ -1,5 +1,5 @@
 # memory-proteus-projects
-This repository contains memory-related projects that were designed and simulated using Proteus This repository contains memory-related projects designed and simulated using Proteus as part of the NTI summer training tasks. 
+This repository contains memory-related projects designed and simulated using Proteus as part of the NTI summer training tasks. 
 
 ## Projects
 1. Counter
